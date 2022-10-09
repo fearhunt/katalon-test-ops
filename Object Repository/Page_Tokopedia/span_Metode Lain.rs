@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Metode Lain</name>
+   <tag></tag>
+   <elementGuidId>5ea70e8a-ae88-4c4f-b53f-2a6fdfe3a4b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='social-login']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#social-login > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fb83e6f3-46bb-4da8-b22f-1b7091f59194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Metode Lain</value>
+      <webElementGuid>6e6c0822-9f70-4859-9c57-ad5eb8f25ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;social-login&quot;)/span[1]</value>
+      <webElementGuid>e90f45c5-7f71-45f7-a50e-9357f6b4a4a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='social-login']/span</value>
+      <webElementGuid>9e740c7a-8c05-4bb4-8b24-837e7ed5b93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan Kode QR'])[1]/following::span[1]</value>
+      <webElementGuid>7335bb6e-6585-40d6-b4cd-58aa285a29d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau masuk dengan'])[1]/following::span[4]</value>
+      <webElementGuid>4316c111-9ec4-48c5-be06-06342a7083c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Metode Lain']/parent::*</value>
+      <webElementGuid>44313785-249b-40e4-b85f-04027b443d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span</value>
+      <webElementGuid>78a27237-2c83-47e6-bbb3-6b6722962626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Metode Lain' or . = 'Metode Lain')]</value>
+      <webElementGuid>844d737e-0906-4968-83d7-521b719b19dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

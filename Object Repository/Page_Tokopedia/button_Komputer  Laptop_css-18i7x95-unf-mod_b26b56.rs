@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Komputer  Laptop_css-18i7x95-unf-mod_b26b56</name>
+   <tag></tag>
+   <elementGuidId>65b594ed-6e18-4d9e-8f66-bfb0ef460005</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.css-18i7x95-unf-modal__icon.e1nc1fa21</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a35679d3-447f-4da3-ab6f-0acf40e47969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Tutup tampilan modal</value>
+      <webElementGuid>a74ed96b-6b3b-41cc-9e15-8a9a86a9b028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>modal-close</value>
+      <webElementGuid>7da80b1b-5e8f-4ff5-b736-99f9095d33f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-18i7x95-unf-modal__icon e1nc1fa21</value>
+      <webElementGuid>d5a6dc01-7c75-44e0-812b-95549bbae73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;css-1tbvo2g-unf-modal e1nc1fa20&quot;]/button[@class=&quot;css-18i7x95-unf-modal__icon e1nc1fa21&quot;]</value>
+      <webElementGuid>2d6b2df6-4c0a-45dd-80cb-b6912394e50e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/button</value>
+      <webElementGuid>c99ec349-f1d4-4823-b736-311bb564fbb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

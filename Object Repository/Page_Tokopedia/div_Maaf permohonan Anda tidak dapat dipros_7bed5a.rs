@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Maaf permohonan Anda tidak dapat dipros_7bed5a</name>
+   <tag></tag>
+   <elementGuidId>7b5f8df1-981c-4c8c-af00-86c96535c3e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-fiu5t5-unf-toaster.e1fvi5ic0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aff5b7ff-3820-4fea-bfe3-6b3085ed1cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Toaster</value>
+      <webElementGuid>8ec22955-5845-44ef-99a3-f4d59d847b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>c1899a75-6c78-4677-b708-125cbd862f0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-fiu5t5-unf-toaster e1fvi5ic0</value>
+      <webElementGuid>428e3c39-1901-4a9a-bffb-400343ead375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maaf permohonan Anda tidak dapat diproses. Silahkan coba beberapa saat lagi.</value>
+      <webElementGuid>35b567d0-0afe-47f8-b296-d08aab6e8c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[10]/div[@class=&quot;css-fiu5t5-unf-toaster e1fvi5ic0&quot;]</value>
+      <webElementGuid>16fd9632-5283-4ca9-8c98-1f81bddf2d19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/following::div[5]</value>
+      <webElementGuid>cb1de467-8bba-4d3f-936f-e853d0e3489d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Akun Untuk Masuk'])[1]/following::div[5]</value>
+      <webElementGuid>bda4fda1-9e68-4d62-98fd-c85e7d4b18c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div</value>
+      <webElementGuid>5e8c116d-5394-44e4-951c-d4eefa466cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Maaf permohonan Anda tidak dapat diproses. Silahkan coba beberapa saat lagi.' or . = 'Maaf permohonan Anda tidak dapat diproses. Silahkan coba beberapa saat lagi.')]</value>
+      <webElementGuid>a509c873-75b3-4e18-a93c-f5e7c54c627d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
